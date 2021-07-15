@@ -11,7 +11,7 @@ int main()
 	char oper = '+';
 
 	cout << "Calculator Console Application" << endl << endl;
-	cout << "Please enter the operation to perform. Format: a+b | a-b | a*b | a/b"
+	cout << "Enter the operation to perform. Available operations and format: a+b\n  a-b\n  a*b\n a/b"
 		<< endl;
 
 	Calculator c;
